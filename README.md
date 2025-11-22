@@ -71,17 +71,20 @@ endmodule
 Developed by: RegisterNumber:25016862
 RLT:
 HALF ADDER:
+<img width="1920" height="1080" alt="exp3 logic(HALF ADDER)" src="https://github.com/user-attachments/assets/0899a87f-a9b4-47e9-9aec-799bed99a764" />
+HALF SUBRACTOR:
+<img width="1920" height="1080" alt="exp3 logic(HALF SUB)" src="https://github.com/user-attachments/assets/14adb15a-9ed8-413f-8217-ed4ff129d80b" />
+
+
+
+
+**Output/TIMING Waveform**
+HALF ADDER:
 <img width="1920" height="1080" alt="exp3 waverform(HALF ADDER)" src="https://github.com/user-attachments/assets/90eb6b5c-37b2-4e8b-b809-c3b1bc2b09bb" />
 
 HALF subractor:
 <img width="1920" height="1080" alt="EXP3 WAVE(HALF SUB)" src="https://github.com/user-attachments/assets/9157c8ec-4f80-4886-ae7b-36e0fecb7dd0" />
 
-
-**Output/TIMING Waveform**
-HALF ADDER:
-<img width="1920" height="1080" alt="exp3 logic(HALF ADDER)" src="https://github.com/user-attachments/assets/0899a87f-a9b4-47e9-9aec-799bed99a764" />
-HALF SUBRACTOR:
-<img width="1920" height="1080" alt="exp3 logic(HALF SUB)" src="https://github.com/user-attachments/assets/14adb15a-9ed8-413f-8217-ed4ff129d80b" />
 
 
 
