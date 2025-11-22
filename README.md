@@ -69,6 +69,13 @@ endmodule
 ```
 
 Developed by: RegisterNumber:25016862
+RLT:
+HALF ADDER:
+<img width="1920" height="1080" alt="exp3 waverform(HALF ADDER)" src="https://github.com/user-attachments/assets/90eb6b5c-37b2-4e8b-b809-c3b1bc2b09bb" />
+
+HALF subractor:
+<img width="1920" height="1080" alt="EXP3 WAVE(HALF SUB)" src="https://github.com/user-attachments/assets/9157c8ec-4f80-4886-ae7b-36e0fecb7dd0" />
+
 
 **Output/TIMING Waveform**
 HALF ADDER:
